@@ -1,0 +1,249 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Ha Long",
+      "countryId": 1,
+      "description": "Hạ Long Bay is famous for its emerald waters and thousands of towering limestone islands topped with rainforests. The bay's landscape is dotted with a variety of limestone karsts and isles in different shapes and sizes. These formations have been sculpted over millions of years, creating a breathtaking seascape that is truly unique.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Hội An",
+      "countryId": 1,
+      "description": "The heart of Hoi An is its beautifully preserved Old Town, where narrow lanes are lined with traditional houses, adorned with wooden facades and tiled roofs. These architectural gems reflect the town's prosperous trading history dating back to the 15th century.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Ninh Bình",
+      "countryId": 1,
+      "description": "Ninh Binh, often referred to as 'Halong Bay on land,' is a breathtaking destination known for its stunning landscapes and natural beauty. Located in northern Vietnam, Ninh Binh captivates visitors with its limestone karsts, lush greenery, and winding waterways.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Đà Nẵng",
+      "countryId": 1,
+      "description": "Da Nang, situated along Vietnam's central coast, is a city that seamlessly blends modernity with rich cultural heritage. Known for its pristine beaches, historical landmarks, and lively atmosphere, Da Nang has become a popular destination for both domestic and international travelers.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1555979864-7a8f9b4fddf8?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "Bangkok",
+      "countryId": 2,
+      "description": "Bangkok, Thailand's bustling capital, is a city that seamlessly blends ancient traditions with modernity. Known for its ornate temples, vibrant street life, and bustling markets, Bangkok offers visitors a sensory-rich experience unlike any other.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1580327942498-53a877c6d0ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "London",
+      "countryId": 3,
+      "description": "London, the capital city of England and the United Kingdom, is a global metropolis renowned for its rich history, iconic landmarks, and cultural diversity. From royal palaces to world-class museums, London offers a blend of old-world charm and modern sophistication that captivates millions of visitors each year.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "name": "Paris",
+      "countryId": 4,
+      "description": "Paris, often called the City of Light, is a timeless metropolis known for its iconic landmarks, rich history, and cultural sophistication. From world-renowned art museums to charming cafes along the Seine River, Paris exudes an air of romance and allure that captivates visitors from around the globe.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1522093007474-d86e9bf7ba6f?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 9,
+      "name": "Istanbul",
+      "countryId": 6,
+      "description": "Istanbul, the vibrant metropolis straddling Europe and Asia, is a city steeped in history, culture, and architectural splendor. Formerly known as Byzantium and Constantinople, Istanbul served as the capital of three great empires—Roman, Byzantine, and Ottoman—each leaving an indelible mark on its character and heritage.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 10,
+      "name": "Shanghai",
+      "countryId": 9,
+      "description": "Shanghai, China's largest city by population and a global financial center, captivates visitors with its futuristic skyline, historic landmarks, and vibrant cultural scene. From colonial-era architecture along the Bund to modern skyscrapers in Pudong, Shanghai offers a compelling blend of old-world charm and contemporary innovation.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1576344581549-060a332463d2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "viet nam"
+    },
+    {
+      "id": 2,
+      "name": "thailand"
+    },
+    {
+      "id": 3,
+      "name": "england"
+    },
+    {
+      "id": 4,
+      "name": "france"
+    },
+    {
+      "id": 5,
+      "name": "malaysia"
+    },
+    {
+      "id": 6,
+      "name": "turkey"
+    },
+    {
+      "id": 7,
+      "name": "japan"
+    },
+    {
+      "id": 8,
+      "name": "south korea"
+    },
+    {
+      "id": 9,
+      "name": "china"
+    },
+    {
+      "id": 10,
+      "name": "spain"
+    }
+  ],
+  "comments": [
+    {
+      "text": "i love u 3000 tim tim",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1720853803340,
+      "id": 1
+    },
+    {
+      "text": "wow ha long that dep wa di thoi",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1720853929120,
+      "id": 2
+    },
+    {
+      "text": "wow",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1720854269642,
+      "id": 3
+    },
+    {
+      "text": "dep wa di",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1720854274719,
+      "id": 4
+    },
+    {
+      "text": "wow",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1720854436763,
+      "id": 5
+    },
+    {
+      "text": "dep wa di",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1720854440228,
+      "id": 6
+    },
+    {
+      "text": "hoi an that dep",
+      "placeId": 2,
+      "userId": 1,
+      "createdAt": 1720854453753,
+      "id": 7
+    },
+    {
+      "text": "co bi bat di chuyen gioi k z troi?",
+      "placeId": 5,
+      "userId": 1,
+      "createdAt": 1720854477349,
+      "id": 8
+    },
+    {
+      "text": "wow đà nẵng",
+      "placeId": 4,
+      "userId": 1,
+      "createdAt": 1720855101240,
+      "id": 9
+    },
+    {
+      "text": "nhu /////////",
+      "placeId": 3,
+      "userId": 1,
+      "createdAt": 1720856577842,
+      "id": 10
+    },
+    {
+      "text": "ok",
+      "placeId": 3,
+      "userId": 1,
+      "createdAt": 1720856580850,
+      "id": 11
+    },
+    {
+      "text": "xau ưa",
+      "placeId": 9,
+      "userId": 1,
+      "createdAt": 1720856732793,
+      "id": 12
+    },
+    {
+      "text": "dep",
+      "placeId": 2,
+      "userId": 1,
+      "createdAt": 1720868627837,
+      "id": 13
+    },
+    {
+      "text": "k nhe",
+      "placeId": 5,
+      "userId": 1,
+      "createdAt": 1720889949067,
+      "id": 14
+    },
+    {
+      "text": "hsy",
+      "placeId": 3,
+      "userId": 1,
+      "createdAt": 1720928539252,
+      "id": 15
+    },
+    {
+      "text": "meo meo",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1721007174530,
+      "id": 16
+    },
+    {
+      "text": "..",
+      "placeId": 1,
+      "userId": 1,
+      "createdAt": 1721007478693,
+      "id": 17
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User"
+    },
+    {
+      "id": 2,
+      "name": "User 2"
+    }
+  ]
+}

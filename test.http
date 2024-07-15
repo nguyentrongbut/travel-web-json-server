@@ -1,0 +1,41 @@
+@baseUrl = http://localhost:9000/api
+
+# @name getLocation
+GET http://localhost:9000/api/places?_expand=country
+
+####
+
+# @name getLocation
+GET http://localhost:9000/api/places?name_like=ạ
+
+####
+# @name getLocation
+GET http://localhost:9000/api/places?_expand=country&_embed=comments
+
+####
+
+# @name getLocation
+GET http://localhost:9000/api/places-expanded-comment-country-user/1
+
+####
+
+# @name getLocation
+POST http://localhost:9000/api/comments
+Content-Type: application/json
+
+{
+    "text": "haha",
+    "placeId": 3,   
+    "userId": 1
+}
+
+###
+# @name getLocation
+DELETE  http://localhost:9000/api/places/11
+
+
+
+####
+
+# @name getLocation
+GET http://localhost:9000/api/countries
